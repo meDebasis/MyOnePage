@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hi welcome to myOnePage
+Hi welcome to myOnePage.
+
+You can set up your myOnePage with all required info that you are using on daily basis so that 
+It will be handy for you next time.
 </body>
 </html>
